@@ -39,6 +39,9 @@ else if(User_name== "sandeep"){
 else if(User_name=="abhishek"){
     document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo luddo kelne aaya h.";
 }
+else if(User_name=="ayush"){
+    document.getElementById("Final_msg").innerText="Weocome Ayush,How may I help you Sir";
+}
 
 var elem = document.createElement('div');
 // var elemText = document.createTextNode('p1');
