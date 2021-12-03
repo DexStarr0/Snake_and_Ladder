@@ -39,6 +39,9 @@ else if(User_name== "sandeep"){
 else if(User_name=="abhishek"){
     document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo luddo kelne aaya h.";
 }
+else if(User_name=="abhishek"){
+    document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo luddo kelne aaya h. Waise kaisa laga mera game?";
+}
 else if(User_name=="ayush"){
     document.getElementById("Final_msg").innerText="How you sir? it's been a long time to see you playing this game. and also it's been a long time since you updated me. By the way thanx for creating me.";
 }
