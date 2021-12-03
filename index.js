@@ -40,7 +40,7 @@ else if(User_name=="abhishek"){
     document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo snake_ladder kelne aaya h.";
 }
 else if(User_name=="saurav"){
-    document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ "Bhiaya. BGMI se man bhar gaya kya? Jo snake_ladder kelne aaye hai.";
+    document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " Bhiaya. BGMI se man bhar gaya kya? Jo snake_ladder kelne aaye hai.";
 }
 else if(User_name=="venom" || User_name=="amrit"){
     document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo snake_ladder kelne aaya h. Waise kaisa laga mera game?";
