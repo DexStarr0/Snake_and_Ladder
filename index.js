@@ -37,10 +37,13 @@ else if(User_name== "sandeep"){
     document.getElementById("Final_msg").innerText="msg From Ayush : Wahh Chacha aa gaye apna gar uta ke kelne ke liye . gandu . loddu . and many more";
 }
 else if(User_name=="abhishek"){
-    document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo luddo kelne aaya h.";
+    document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo snake_ladder kelne aaya h.";
+}
+else if(User_name=="saurav"){
+    document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ "Bhiaya. BGMI se man bhar gaya kya? Jo snake_ladder kelne aaye hai.";
 }
 else if(User_name=="venom" || User_name=="amrit"){
-    document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo luddo kelne aaya h. Waise kaisa laga mera game?";
+    document.getElementById("Final_msg").innerText="msg From Ayush : Wahh " +User_name+ " BGMI se man bhar gaya kya? Jo snake_ladder kelne aaya h. Waise kaisa laga mera game?";
 }
 else if(User_name=="ayush"){
     document.getElementById("Final_msg").innerText="How you sir? it's been a long time to see you playing this game. and also it's been a long time since you updated me. By the way thanx for creating me.";
