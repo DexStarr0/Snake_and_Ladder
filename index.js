@@ -154,6 +154,7 @@ function Dice_no(){
     var w = Curr_p-Dice;
     
     if(Curr_p>100){
+        Coin_animation(0,0,0)
         Curr_p=Curr_p-Dice;
     }
     else if(Curr_p==100){
