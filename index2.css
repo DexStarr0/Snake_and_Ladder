@@ -153,12 +153,12 @@ body{
         max-height: 700px;
         position: relative;
         display: flex;
-        border: solid;
+        
         align-items: center;
         justify-content: center;
     }
     .extra_work{
-        border: solid yellow;
+     
         height: 100vh;
         max-height: 700px;
         display: flex;
@@ -169,7 +169,7 @@ body{
     .score{
         position:absolute;
         top: 70px;
-        border: solid red;
+
     }
     .User_name{
         
@@ -191,7 +191,7 @@ body{
         bottom: 0;
         width: fit-content;
         margin-bottom: 15px;
-        border: solid red;
+  
         display: flex;
         align-items: center;
         /* justify-content: space-around; */
